@@ -1,1 +1,2 @@
 # README
+friends are cool
